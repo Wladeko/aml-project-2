@@ -33,7 +33,7 @@ Full project task is located in `resources` subdirectory.
 ```
 ---
 ## Results
-We presented obtained results in short [report](https://github.com/Wladeko/aml-project-1/blob/main/report.pdf).
+We presented obtained results in short [report](https://github.com/Wladeko/aml-project-2/blob/main/report.pdf).
 
 In the final tally, during inference on the test set, our proposed solution turned out to be the best among all students in our year. We achieved:
 
