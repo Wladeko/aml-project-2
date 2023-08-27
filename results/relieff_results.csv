@@ -1,0 +1,3 @@
+dataset_name,feature_selection_method,classifier,best_num_features,best_score
+artificial,relieff,KNN,13,0.868
+spam,relieff,RF,85,0.9028430744938085

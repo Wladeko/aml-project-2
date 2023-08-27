@@ -1,0 +1,3 @@
+dataset_name,feature_selection_method,classifier,best_num_features,best_score
+artificial,lasso,RF,7,0.865
+spam,lasso,RF,75,0.9370755278859456
